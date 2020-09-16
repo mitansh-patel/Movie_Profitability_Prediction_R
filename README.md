@@ -1,5 +1,5 @@
 # Movie_Profitability_Prediction_R
-This is my first machine learning project predicting a movie profitability for IMDB dataset of 5000 movies from Kaggle.
+This is my first machine learning project (April 2020) predicting a movie profitability for IMDB dataset of 5000 movies from Kaggle.
 
 This project basically predicts the profitability of a movie based on return on investment of a movie, for which I have used classification models.
 
